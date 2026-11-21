@@ -11,5 +11,5 @@ Hi! My name is Daniil, and this is my page on GitHub, where you can see various 
 * **Skills & Interests**: Mathematics, Analytics, IT, Teaching.
 
 ## GitHub statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilaszn&show_icons=true&locale=en&layout=compact" alt="daniilaszn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniilaszn&" alt="daniilaszn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniiladamovrnt&show_icons=true&locale=en&layout=compact" alt="daniilaszn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniiladamovrnt&" alt="daniilaszn" /></p>
